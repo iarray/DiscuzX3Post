@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscuzX3_发帖机", "DiscuzX3_发帖机\DiscuzX3_发帖机.csproj", "{9A8ECC9D-0CDC-4383-BF3B-D5DE10595805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscuzHelper", "DiscuzHelper\DiscuzHelper.csproj", "{816FC072-2A4E-4D9B-91E2-0149EA4F4361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A8ECC9D-0CDC-4383-BF3B-D5DE10595805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8ECC9D-0CDC-4383-BF3B-D5DE10595805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8ECC9D-0CDC-4383-BF3B-D5DE10595805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8ECC9D-0CDC-4383-BF3B-D5DE10595805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816FC072-2A4E-4D9B-91E2-0149EA4F4361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816FC072-2A4E-4D9B-91E2-0149EA4F4361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816FC072-2A4E-4D9B-91E2-0149EA4F4361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816FC072-2A4E-4D9B-91E2-0149EA4F4361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+﻿<Window x:Class="DiscuzX3_发帖机.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="460.448" Width="525">
+    <Grid >
+        <Button Content="登录并发表" HorizontalAlignment="Left" Margin="343.835,27.91,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <TextBox HorizontalAlignment="Left" Height="291.656" Margin="33.313,114.298,0,0"  Name="tb1" VerticalAlignment="Top" Width="454.328" AcceptsReturn="True"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="57.194,26.747,0,0" TextWrapping="Wrap" Name="id" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox Name="password" HorizontalAlignment="Left" Margin="234.805,26.747,0,0" VerticalAlignment="Top" Width="104.03"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="73.612,72.508,0,0" TextWrapping="Wrap" Name="tbTitle" VerticalAlignment="Top" Width="331.94"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="443.76,72.508,0,0" TextWrapping="Wrap" Name="tbFid" VerticalAlignment="Top" Width="43.881"/>
+        <TextBlock HorizontalAlignment="Left" Margin="29.395,72.508,0,0" TextWrapping="Wrap" Text="主题:" VerticalAlignment="Top" RenderTransformOrigin="15.298,1.131"/>
+        <TextBlock HorizontalAlignment="Left" Margin="416.87,72.508,0,0" TextWrapping="Wrap" Text="fid:" VerticalAlignment="Top" RenderTransformOrigin="15.298,1.131"/>
+        <TextBlock HorizontalAlignment="Left" Margin="36.856,27.91,0,0" TextWrapping="Wrap" Text="ID:" VerticalAlignment="Top" RenderTransformOrigin="15.298,1.131"/>
+        <TextBlock HorizontalAlignment="Left" Margin="202.915,27.91,0,0" TextWrapping="Wrap" Text="密码:" VerticalAlignment="Top" RenderTransformOrigin="15.298,1.131"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="423.835,26.747,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+    </Grid>
+</Window>

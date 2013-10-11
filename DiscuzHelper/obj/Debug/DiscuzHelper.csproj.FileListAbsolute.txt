@@ -1,0 +1,5 @@
+D:\我的文档\2013VS项目\DiscuzX3_发帖机\DiscuzHelper\bin\Debug\DiscuzHelper.dll
+D:\我的文档\2013VS项目\DiscuzX3_发帖机\DiscuzHelper\bin\Debug\DiscuzHelper.pdb
+D:\我的文档\2013VS项目\DiscuzX3_发帖机\DiscuzHelper\obj\Debug\DiscuzHelper.dll
+D:\我的文档\2013VS项目\DiscuzX3_发帖机\DiscuzHelper\obj\Debug\DiscuzHelper.pdb
+D:\我的文档\2013VS项目\DiscuzX3_发帖机\DiscuzHelper\bin\Debug\HtmlAgilityPack.dll
